@@ -1,0 +1,7 @@
+C:\Users\goethf\RiderProjects\Zeugnismanagement_OOP\bin\Debug\Zeugnismanagement_OOP.exe
+C:\Users\goethf\RiderProjects\Zeugnismanagement_OOP\bin\Debug\Zeugnismanagement_OOP.pdb
+C:\Users\goethf\RiderProjects\Zeugnismanagement_OOP\obj\Debug\Zeugnismanagement_OOP.csproj.AssemblyReference.cache
+C:\Users\goethf\RiderProjects\Zeugnismanagement_OOP\obj\Debug\Zeugnismanagement_OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\goethf\RiderProjects\Zeugnismanagement_OOP\obj\Debug\Zeugnismanagement_OOP.csproj.CoreCompileInputs.cache
+C:\Users\goethf\RiderProjects\Zeugnismanagement_OOP\obj\Debug\Zeugnismanagement_OOP.exe
+C:\Users\goethf\RiderProjects\Zeugnismanagement_OOP\obj\Debug\Zeugnismanagement_OOP.pdb
